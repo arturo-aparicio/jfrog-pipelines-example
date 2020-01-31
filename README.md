@@ -1,1 +1,3 @@
-# jfrog-pipelines-example
+# JFrog Pipelines Examples
+
+
