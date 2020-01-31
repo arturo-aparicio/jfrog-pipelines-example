@@ -19,4 +19,4 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: arturo_github
-      path: hello-world/hello-world-all-in-one.yaml
+      path: jfrog-aparicio/jfrog-pipelines-example
